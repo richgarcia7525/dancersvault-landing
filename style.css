@@ -25,9 +25,11 @@ body {
     color: #bfbfbf;
   }
   .logo {
-    width: 180px;
-    margin-bottom: 1rem;
-    filter: drop-shadow(0 0 8px #222);
+    width: 320px;
+    max-width: 90%;
+    margin-bottom: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 30px rgba(255, 215, 0, 0.15);
   }
   
   
